@@ -1,5 +1,5 @@
 #!/bin/sh
-'''exec' "/home/luiz/Área de trabalho/calculadora-python-main/venv/bin/python3" "$0" "$@"
+'''exec' "/home/luiz/Área de trabalho/LUIZ/calculadora-python-main/venv/bin/python3" "$0" "$@"
 ' '''
 # -*- coding: utf-8 -*-
 import re
